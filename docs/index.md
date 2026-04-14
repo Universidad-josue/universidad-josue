@@ -13,51 +13,51 @@ Bienvenido al portal de oferta académica. Aquí podrás consultar las carreras 
 ### Enfermería
 **Título:** Licenciado/a en Enfermería
 
-### Odontología
-**Título:** Odontólogo/a
+### Fisioterapia
+**Título:** Licenciado/a en Fisioterapia
 
 ### Nutrición y Dietética
 **Título:** Licenciado/a en Nutrición y Dietética
 
 ---
 
-## Área de Ingenierías
+## Ingenierías y Arquitectura
 
-### Ingeniería en Sistemas
-**Título:** Ingeniero/a en Sistemas
+### Arquitectura
+**Título:** Arquitecto
+
+### Computación
+**Título:** Ingeniero/a en Ciencias de al Computación
+
+### Geología
+**Título:** Ingeniero/a Geología
 
 ### Ingeniería Civil
 **Título:** Ingeniero/a Civil
 
-### Ingeniería Industrial
-**Título:** Ingeniero/a Industrial
-
-### Ingeniería Electrónica
-**Título:** Ingeniero/a Electrónico/a
+### Telecomunicaciones
+**Título:** Ingeniero/a en Telecomunicaciones
 
 ---
 
-## Área de Artes
+## Ciencias Sociales, Educaciones y Humacionales
 
-### Diseño Gráfico
-**Título:** Licenciado/a en Diseño Gráfico
+### Artes Escénicas
+**Título:** Licenciado en Artes Escénicas
 
 ### Artes Visuales
 **Título:** Licenciado/a en Artes Visuales
 
-### Música
-**Título:** Licenciado/a en Música
-
-### Artes Escénicas
-**Título:** Licenciado/a en Artes Escénicas
+### Pedagogía de los Idiomas Nacionales y Extranjeros
+**Título:** Licenciado/a en Pedagogía del Idioma Inglés
 
 ---
 
 ## Navegación
 
 - Área de Medicina
-- Área de Ingenierías
-- Área de Artes
+- Ingenierías y Arquitectura
+- Ciencias Sociales, Educaciones y Humacionales
 
 ---
 
